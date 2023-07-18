@@ -8,6 +8,6 @@
 // console.log(b);
 // #########################################################>
 // task3
-let a = ["itachi", "goku" , "madara"]
-let b = a.forEach(letter =>console.log(`${letter[0]}${letter[letter.length - 1]}`) )
+// let a = ["itachi", "goku" , "madara"]
+// let b = a.forEach(letter =>console.log(`${letter[0]}${letter[letter.length - 1]}`) )
 
